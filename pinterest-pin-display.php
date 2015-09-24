@@ -106,7 +106,7 @@ function pinterest_pin_display($atts){
 ?>
    </div>
 </div>
-<div style="font-size: 9px; color: #808080; font-weight: normal; font-family: tahoma,verdana,arial,sans-serif; line-height: 1.28; direction: ltr; position: relative; top: -13px"><a href="http://procurbappealconcrete.com/about-us/" target="_blank" style="color: #808080;" title="Visit the about page">Learn more...</a></div>
+<div style="font-size: 9px; color: #808080; font-weight: normal; font-family: tahoma,verdana,arial,sans-serif; line-height: 1.28; direction: ltr; position: relative; top: -13px"><a href="http://procurbappealconcrete.com/our-services/concrete-patios/" target="_blank" style="color: #808080;" title="Visit the website">Concrete Patio Bellevue</a></div>
 
 <?php
     return;
